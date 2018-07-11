@@ -1,0 +1,106 @@
+.container {
+  background-color: white;
+  text-align: left;
+  margin: 50px auto 0 auto;
+  height: 350px;
+  width: 400px;
+  border-radius: 10px;
+}
+
+.section-1 {
+  border-radius: 10px 10px 0 0;
+  padding: 10px 0 0 0;
+  height: 220px;
+  color: snow;
+  opacity: 0.9;
+}
+
+.section-1 p {
+  padding-left: 20px;
+}
+
+.speed {
+  font-size: 10px;
+}
+
+.speed-icon {
+  padding-left: 20px;
+}
+
+.speed-number {
+  padding: 0 0 0 10px;
+  font-size: 25px;
+  display: inline;
+}
+
+.city {
+  font-size: 25px;
+}
+
+.line {
+  position: absolute;
+  margin: -15px 0 0 20px;
+  width: 25px;
+  border: none;
+  background-color: snow;
+  color: snow;
+  height: 2px;
+}
+
+.temp {
+  margin-top: 20px; 
+  font-size: 35px;
+}
+
+.icon-box {
+  margin: -210px 0 0 220px; 
+}
+
+.icon {
+  font-size: 150px !important; 
+}
+
+.active {
+  display: inline;
+}
+
+.no-active {
+  display: none !important;
+}
+
+li {
+  display: inline-block;
+}
+
+.mini-1 {
+  margin: 0 0 0 20px;
+}
+
+.mini-2 {
+  margin: 0 0 0 80px;
+}
+
+.mini-3 {
+  margin: 0 0 0 80px;
+}
+
+.mini-icon {
+  margin-left: -8px;
+  font-size: 50px !important; 
+}
+
+.day {
+  margin: 5px auto 10px auto;
+}
+
+.icon-1 {
+  margin: 0 0 0 20px;
+}
+
+.icon-2 {
+  margin: 0 0 0 80px;
+}
+
+.icon-3 {
+  margin: 0 0 0 80px;
+}
