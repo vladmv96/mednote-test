@@ -75,7 +75,7 @@ class App extends Component {
         return 'FRI';
       case 6: 
         return 'SAT';
-      case 7: 
+      case 0: 
         return 'SUN';
       default: 
         return '';
